@@ -23,8 +23,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 
 ## Program to print the list of item.
-## Developed by: KISHORE M
-## Registeration Number : 212221043003
+## Developed by: CHANDRAMOHAN S 
+## Registeration Number : 212221223002
 
 
 ## activity_main.xml:
